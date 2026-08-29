@@ -1,0 +1,9 @@
+.env
+secrets.conf
+*.swp
+*.tmp
+printer-[0-9]*_[0-9]*.cfg
+*.bak
+*.bkp
+*.csv
+20260127 - DICOM archive with 1 series from VOYAGER HEAD 21HN 0I80^DLR BRAVO 4 series - e535576 - 20210519 - 6978ff4851f20.zip
